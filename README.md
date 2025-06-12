@@ -7,7 +7,7 @@ Using computational techniques such as Quantum Circuit Models, implemented in th
 After a JW, Fourier and Bogoliubov transform of the 1D periodic TFIM hamiltonian, the following theoretical maximum velocity of spin correlation velocity is calculated:
 
 $$
-v(k = \frac{\pi}{2a}) \approx  0.944 \quad (\text{in units of } \frac{J_a}{\hbar})
+v(k = \frac{\pi}{2a}) \approx  0.944 \quad (\text{in units of } \frac{Ja}{\hbar})
 $$
 
 Where a is the lattice spacing, and J the coupling constant. 
